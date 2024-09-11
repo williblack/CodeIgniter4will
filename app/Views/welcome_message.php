@@ -1,3 +1,3 @@
-hola mundo!!!;
-esto esta muy bueno!!!!:
-esto esta muy chimbaa!!!1;
+hola mundo!!!;//
+esto esta muy bueno!!!!;//
+esto esta muy chimbaa!!!1;//
