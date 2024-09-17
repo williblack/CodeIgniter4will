@@ -6,6 +6,6 @@ class Prueba extends BaseController
 {
     public function index(): string
     {
-       echo "hola desde prueba";
+       return "hola desde prueba";
     }
 }
