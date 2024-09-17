@@ -8,4 +8,8 @@ class Prueba extends BaseController
     {
        return "hola desde prueba";
     }
+    public function productos(): string
+    {
+       return "hola desde productos";
+    }
 }
