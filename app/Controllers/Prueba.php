@@ -16,4 +16,9 @@ class Prueba extends BaseController
     {
        return "hola he recibido una solicituid por el producto $producto";
     }
+    public function almacen($producto,$cantidad): string
+    {
+       return "hola he recibido una solicituid por el producto $producto por una cantidad de $cantidad";
+
+    }
 }
