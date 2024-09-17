@@ -10,6 +10,6 @@ class Home extends BaseController
     }
     public function index2(): string
     {
-        echo "hola desde index2 ";
+        return "hola desde index2 ";
     }
 }
