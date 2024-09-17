@@ -10,6 +10,6 @@ class Home extends BaseController
     }
     public function index2(): string
     {
-        return view('welcome_message');
+        echo "hola desde index2 ";
     }
 }
