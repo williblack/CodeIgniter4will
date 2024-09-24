@@ -6,7 +6,7 @@ class Pagina extends BaseController
 {
     public function index(): string
     {
-        return "Hola desde la página";
+        return view("App/Views/index");
     }
     
 }
