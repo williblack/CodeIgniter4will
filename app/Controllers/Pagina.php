@@ -9,8 +9,9 @@ class Pagina extends BaseController
         $head= view("head");
         $header= view("header");
         $main= view("main");
+        $footer= view("footer");
         $end= view("end");
-        $html= $head.$header.$main.$end;
+        $html= $head.$header.$main.$footer.$end;
         return $html;
     }
     
